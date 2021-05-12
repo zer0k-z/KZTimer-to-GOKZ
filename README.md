@@ -1,0 +1,1 @@
+A bunch of unorganized python scripts used to convert KZTimer servers to GOKZ. Originally created by [Szwagi](https://github.com/Szwagi). WIP
